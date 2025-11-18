@@ -6,6 +6,7 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "lint": "eslint .",
+    "reassure": "reassure",
     "start": "react-native start",
     "test": "jest"
   },
@@ -34,6 +35,7 @@
     "jest": "^29.6.3",
     "prettier": "2.8.8",
     "react-test-renderer": "19.1.1",
+    "reassure": "^1.4.0",
     "typescript": "^5.8.3"
   },
   "engines": {
